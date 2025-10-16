@@ -8,7 +8,7 @@ void A(int &a, int &b){
     if(a>b){
         a+=25;
         b*=2;
-        cout<<b<<" "<<a;
+        cout<<a<<" "<<b;
     }
     else if(b>a){
         b+=25;
